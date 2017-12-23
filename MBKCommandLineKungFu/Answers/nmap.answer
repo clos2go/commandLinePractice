@@ -1,0 +1,10 @@
+These solutions are just one way of completing the challenge. See if you can figure out others.
+
+grep ldap nmap.gnmap | awk '{print $2}'
+LDAP Servers:  
+10.11.12.21
+10.11.12.22
+
+grep "80/open" nmap.gnmap | awk '{print $2}'
+Web Server:
+10.11.12.35

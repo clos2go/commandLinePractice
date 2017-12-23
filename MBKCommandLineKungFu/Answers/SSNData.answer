@@ -1,0 +1,5 @@
+This is one possible solution. See if you can find more
+
+sed -i 's/,[0-9].*/,xxxxxxxxx/' SSNData.csv
+
+cat SSNData.csv | cut -d, -f2

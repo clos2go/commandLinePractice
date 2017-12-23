@@ -1,0 +1,24 @@
+Research the following standard command lines. Document int he commands.txt file what each command does and the syntax of how they should be used if needed for reference.
+
+
+~
+
+pwd
+
+ls
+
+cd
+
+cp
+
+mkdir
+
+touch
+
+rm
+
+mv
+
+rm
+
+sort

@@ -6,7 +6,7 @@ You don't know much or anything about Linux? That is OK too. We will be walking 
 
 Setup:
 
-First, make sure you have a Linux environment setup. (This can be a VM or physical hardware.) Any distribution will do, but some common ones are:
+Normally, you would make sure you have a Linux environment setup. (This can be a VM or physical hardware.) Any distribution will do, but some common ones are:
 
 Ubunutu
 Debian
@@ -26,7 +26,7 @@ cat
 
 Now that we have everything setup, let's look at the Challenge.
 
-Challenge: (All challenges can and should be performed using a simgle command line)
+Challenge: (All challenges can and should be performed using a single command line)
 1. You have just completed a nmap scan of your network. You output the results in greppable format and want to look at the file for specific information. (All challenges can be done in one command line)
      - What are the IP addresses of the two Domain Controllers?
      - Which host is running a website?
